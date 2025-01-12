@@ -1,0 +1,1 @@
+This repository contains all the fundamental and core concepts dealing with data structures like Linked List, Stack, Queue, Tree, Heap etc and covering algorithms like Dijkstra, Backtracking, Kadane, Yen, A* etc.
